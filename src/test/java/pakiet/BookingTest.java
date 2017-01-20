@@ -48,7 +48,7 @@ public class BookingTest {
 	 */
 	@Test
 	public void testCheckLogin() {
-		boolean isLoginChecked = booking.checkLogin("benyazidanass@gmail.com");
+		boolean isLoginChecked = booking.checkLogin("pezhman1024@gmail.com");
 		boolean isLoginChecked2 = booking.checkLogin("benyanass@gmail.com");
 		Assert.assertTrue(isLoginChecked2);
 		Assert.assertFalse(isLoginChecked);
@@ -59,8 +59,8 @@ public class BookingTest {
 	 */
 	@Test
 	public void testGetEmail() {
-		String email = booking.getEmail("02:e3e962de-396a-4381-8c8c-a53bff227020");
-		Assert.assertEquals(email, "benyazidanass@gmail.com");
+		String email = booking.getEmail("01:256d5775-1b2d-4ecb-a22b-603024297771");
+		Assert.assertEquals(email, "pezhman1024@gmail.com");
 	}
 
 	/**
