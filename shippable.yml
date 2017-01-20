@@ -6,6 +6,9 @@ jdk:
    - openjdk6
    - oraclejdk8
 
+services:
+  - mysql
+
 after_success:
    - mvn clean cobertura:cobertura
    - mvn test
