@@ -4,6 +4,11 @@ jdk:
 
    - oraclejdk8
 
+build:
+  ci:
+    - mvn install
+    - mvn test
+
 after_success:
    - mvn clean cobertura:cobertura
    - mvn test
