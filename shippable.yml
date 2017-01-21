@@ -3,15 +3,14 @@ language: java
 jdk:
    - openjdk7
    - oraclejdk7
-   - openjdk6
    - oraclejdk8
 
 after_success:
-   - mvn clean cobertura:cobertura
+   - mvn clean
    - mvn test
 
 notifications:
   email:
       recipients:
-         - exampleone@org.com
+         - benyazidanass@gmail.com
          - exampletwo@org.com
