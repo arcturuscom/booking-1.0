@@ -55,7 +55,9 @@ public class ConnectionHandler {
 						db.getPassword());
 				db.setConnection(connection);
 				db.setStatement(connection.createStatement());
-
+				LOGGER.log(Level.INFO, "connectionString "+db.getConnectionString()+" === ");
+				LOGGER.log(Level.INFO, "user "+db.getUser()+" === ");
+				LOGGER.log(Level.INFO, "password "+db.getPassword()+" === ");
 				connectedDatabases.add(db);
 			}
 		} catch (Exception e) {
