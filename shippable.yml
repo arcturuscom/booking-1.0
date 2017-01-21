@@ -10,7 +10,7 @@ build:
     - mvn test
    
 env:
-  - XUNIT_FILE=shippable/testresults/result.xml
+  - JUNIT_FILE=shippable/testresults/result.xml
 
 after_success:
    - mvn clean cobertura:cobertura
@@ -20,4 +20,3 @@ notifications:
   email:
       recipients:
          - benyazidanass@gmail.com
-         - exampletwo@org.com
