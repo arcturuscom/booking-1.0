@@ -8,6 +8,9 @@ build:
   ci:
     - mvn install 
     - mvn test
+   
+env:
+  - XUNIT_FILE=shippable/testresults/result.xml
 
 after_success:
    - mvn clean cobertura:cobertura
