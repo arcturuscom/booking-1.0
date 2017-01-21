@@ -6,11 +6,12 @@ jdk:
 
 build:
   ci:
-    - mvn install 
-    - mvn test
-   
-env:
-  - JUNIT_FILE=shippable/testresults/result.xml
+    #Create folders for test and code coverage
+    - mkdir -p shippable/testresults
+    - mkdir -p shippable/codecoverage
+
+    #Run test and code coverage and output results to the right folder
+    - mvn clean cobertura:cobertura
 
 after_success:
    - mvn clean cobertura:cobertura
