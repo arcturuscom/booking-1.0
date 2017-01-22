@@ -152,6 +152,9 @@ public class BookingTest {
 		Assert.assertTrue(eventRemoved);
 	}
 	
+	/**
+	 * assert reservation List
+	 */
 	@Test
 	public void getReservationList(){
 		ResultSet rs = booking.getReservationList("01:12");
