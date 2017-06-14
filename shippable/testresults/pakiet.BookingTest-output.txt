@@ -1,0 +1,90 @@
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: connectionString jdbc:mysql://localhost:3306/sinan_RezerwacjeBiletow_1?useUnicode=true&characterEncoding=utf8 === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: user root === 
+mars 04, 2017 1:44:40 PM sinan.database.ConnectionHandler connect
+INFOS: password  === 

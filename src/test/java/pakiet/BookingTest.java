@@ -168,6 +168,9 @@ public class BookingTest {
 			}
 	}
 	
+	/**
+	 * assert get reserbations event
+	 */
 	@Test
 	public void testGetReservationsEvent() {
 		ResultSet rs = booking.getReservationsEvents("01:01348b92-d3ae-4b53-abf3-5e84615d9b0d");

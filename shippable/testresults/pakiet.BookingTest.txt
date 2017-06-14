@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: pakiet.BookingTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.992 sec <<< FAILURE! - in pakiet.BookingTest
+testBookTickets(pakiet.BookingTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError: 
+	at org.junit.Assert.fail(Assert.java:74)
+	at org.junit.Assert.assertTrue(Assert.java:37)
+	at org.junit.Assert.assertTrue(Assert.java:46)
+	at pakiet.BookingTest.testBookTickets(BookingTest.java:146)
+
+testGetReservationsEvent(pakiet.BookingTest)  Time elapsed: 0.011 sec  <<< FAILURE!
+java.lang.AssertionError: 
+	at org.junit.Assert.fail(Assert.java:74)
+	at org.junit.Assert.assertTrue(Assert.java:37)
+	at org.junit.Assert.assertTrue(Assert.java:46)
+	at pakiet.BookingTest.testGetReservationsEvent(BookingTest.java:180)
+
